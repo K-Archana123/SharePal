@@ -2,7 +2,7 @@
 
 A recreation of https://sharepal.in/bangalore/gaming-gadgets-on-rent built as a static site (HTML, CSS and vanilla JavaScript, no build step or dependencies).
 
-- **Live URL:** _add your deployed link here_
+- **Live URL:** https://k-archana123.github.io/SharePal/
 - **Source:** this repository
 
 ## Run locally
